@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/723fd01f-3a9a-47ec-93ad-4ad3ed16044a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Ncuva",
+  "appService.deploySubpath": "NcuvaServer"
+}
